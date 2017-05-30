@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Train EZ</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="please_enter_your_weight">Indtast din vægt</string>
+    <string name="weightTabInfo">Vægt</string>
+    <string name="ExerciseTabInfo">Øvelser</string>
+
+
+
+    <string name="Tongue_stretch">Tunge stræk</string>
+    <string name="Tongue_in_cheek">Tunge mod kind</string>
+    <string name="Tongue_in_corners">Tunge mod hjørnerne</string>
+    <string name="Tongue_on_spoon">Tunge på ske</string>
+    <string name="Side_of_tongue_on_spoon">Tungeside på ske</string>
+    <string name="Yawning">Gab</string>
+    <string name="Jaw_to_the_side">Kæbe til siden</string>
+    <string name="Jaw_forward">Fremskudt kæbe</string>
+    <string name="Breathing">Vejrtrækning</string>
+    <string name="Chair_lifting">Stoleløft</string>
+    <string name="Head_turning">Drejning af hovedet</string>
+    <string name="Swallowing_normally">Normal synkning</string>
+    <string name="Tongue_between_teeth">Tungen mellem tænderne</string>
+    <string name="Forceful_swallow">Kraftfuld synkning</string>
+    <string name="Lay_on_back">Lig på ryggen</string>
+
+
+
+
+    <string name="Mouth_cleaning">Mund rengøring</string>
+    <string name="Speaking_and_saliva">Snak og spyt</string>
+    <string name="Relaxing_the_neck">Slap af i nakken</string>
+    <string name="Jaw_movement">Bevægelse af kæben</string>
+    <string name="Swallowing">Synkning</string>
+    <string name="Efficient_swallowing">Effektiv synkning</string>
+
+    <string name="how_many_rep">Hvor mange repetitioner tog du?</string>
+
+    <string name="perform">Udfør </string>
+    <string name="repetitions">repetitioner</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_progress">Min Udvikling</string>
+    <string name="weight">Vægt</string>
+    <string name="help">Hjælp</string>
+    <string name="start_program">Start Program</string>
+    <string name="my_program">Mit Program</string>
+
+    <string name="helptext"> <b><i>Indtast Vægt </i></b> anvendes til at registrere din vægt, der bør opdateres ugentligt. \n \n <b><i>Mit program  </i></b> anvendes til at vælge de ønskede øvelser, der relaterer sig til de problemer du oplever. Du kan vælge at indstille antallet af repetitioner til det anbefalede eller det du selv ønsker. \n \n <b><i>Afspil Program  </i></b> afspiller de valgte øvelser og du vil herefter blive bedt om at indstille antallet af øvelser du fik gennemført. \n \n  <b><i>Se Statistik </i></b>viser statistikken over din vægt samt antallet af de øvelser du har gennemført.  </string>
+    <string name="infoscreentext">Dysfagi viser sig ved symptomer som forstyrrelser i synkeprocessen. Dysfagi ses ofte i sammenhæng med aldersrelaterede sygdomme, blandt ældre, som eksempelvis er neurodegenerative. Herudover ses symptomer som luftvejsinfektioner og hoste. Ved mistanke om dysfagi, kontakt venligst egen læge.  </string>
+    <string name="weight_warning">Din vægt har ændret sig meget siden sidst. \n Er du sikker på det?</string>
+
+    <string name="reminder">Vil du mindes om at træne?</string>
+    <string name="yesplease">Ja tak</string>
+    <string name="noplease">Nej tak</string>
+
+    <string name="selectdif">Hvad har du svært ved?</string>
+    <string name="proceed">Fortsæt</string>
+
+
+    <string name="save_continue">Gem of fortsæt</string>
+</resources>

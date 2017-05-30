@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Train EZ</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="please_enter_your_weight">Please enter your weight</string>
+    <string name="weightTabInfo">Weight</string>
+    <string name="ExerciseTabInfo">Exercises</string>
+
+    <string name="Tongue_stretch">Tongue stretch</string>
+    <string name="Tongue_in_cheek">Tongue in cheek</string>
+    <string name="Tongue_in_corners">Tongue in corners</string>
+    <string name="Tongue_on_spoon">Tongue on spoon</string>
+    <string name="Side_of_tongue_on_spoon">Side of tongue on spoon</string>
+    <string name="Yawning">Yawning</string>
+    <string name="Jaw_to_the_side">Jaw to the side</string>
+    <string name="Jaw_forward">Jaw forward</string>
+    <string name="Breathing">Breathing</string>
+    <string name="Chair_lifting">Chair lifting</string>
+    <string name="Head_turning">Head turning</string>
+    <string name="Swallowing_normally">Swallowing normally</string>
+    <string name="Tongue_between_teeth">Tongue between teeth</string>
+    <string name="Forceful_swallow">Forceful swallow</string>
+    <string name="Lay_on_back">Lay on back</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="Mouth_cleaning">Mouth cleaning</string>
+    <string name="Speaking_and_saliva">Speaking and saliva</string>
+    <string name="Relaxing_the_neck">Relaxing the neck</string>
+    <string name="Jaw_movement">Jaw movement</string>
+    <string name="Swallowing">Swallowing</string>
+    <string name="Efficient_swallowing">Efficient swallowing</string>
+
+
+
+
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_progress">My progress</string>
+    <string name="weight">Weight</string>
+    <string name="help">Help</string>
+    <string name="start_program">Start Program</string>
+    <string name="my_program">My programme</string>
+
+    <string name="how_many_rep">How many repetetions did you complete?</string>
+    <string name="perform">Perform </string>
+    <string name="repetitions">repetitions</string>
+
+    <string name="weight_warning">Your weight has changed a lot, \n are you sure this is correct?</string>
+
+
+    <string name="reminder">Do you want to set your alarm clock?</string>
+    <string name="yesplease">Yes</string>
+    <string name="noplease">No</string>
+
+    <string name="save_continue">Save and continue</string>
+
+    <string name="proceed">Proceed</string>
+
+
+
+    <string name="helptext"><b><i>Enter Weight </i></b>  is used to register the weight which should be updated once a week. \n \n <b><i>Compose Programme </i></b>   is used to select the wanted exercises that are related to the difficulties that you experience. It is possible to chose to complete the recommended number of repetitions or a number of repetitions you like. \n \n  <b><i>Play Programme</i></b>  plays the chosen exercises and allows you to enter the number of completed exercises afterwards. \n \n  <b><i>View Statistics</i></b>   shows a statistics of your weight and the number of completed exercises.</string>
+    <string name="infoscreentext">Dysphagia shows symptoms as difficulty when swallowing food or liquids. Dysphagia often shows in conjunctions with age related neurodegenerative disorders among older people. Furthermore symptoms as respiratory infections and coughing can occur often. On suspicion of dysphagia, contact your general practitioner. </string>
+<string name="selectdif">Please select experienced difficulties</string>
+
+
+</resources>
